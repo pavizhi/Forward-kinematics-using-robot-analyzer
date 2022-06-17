@@ -51,19 +51,19 @@ Update the DH parameters of the link configuration and end effector configuratio
 ## SIMULATION FOR 4 DOF:
 ![OUTPUT](./4%20dof%20forward%20kinematics.png)
 
-
+## EE CONFIGURATION:
 ![OUTPUT](./4DOF%20T.png)
 
-
+## PLOT:
  ![OUTPUT](./4%20dof.png)
  
 ## SIMULATION FOR 6 DOF: 
 ![OUTPUT](./6dof.png)
 
-
+## EE CONFIGURATION:
 ![OUTPUT](./6DOF%20T.png)
 
-
+## PLOT:
 ![OUTPUT](./6dof%20graph.png)
  
 ## RESULT:
